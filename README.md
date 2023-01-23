@@ -18,8 +18,24 @@ This is a web based application developed for clothes related fit based website
 - Included the feedback Survey form to increase the scope of improvement 
 
 ## Screenshots
+azure services -
 
- 📸!
+
+![Screenshot (12)](https://user-images.githubusercontent.com/123193336/214100373-d4fbf809-53c4-4e41-b116-a2d35d594fcc.png)
+
+
+
+![Screenshot (15)](https://user-images.githubusercontent.com/123193336/214100408-7596d2e9-a4a3-45f5-9a34-8044526acc26.png)
+
+
+
+![Screenshot (16)](https://user-images.githubusercontent.com/123193336/214100444-db67f514-e930-429a-965e-e3266d67c2bf.png)
+
+
+
+
+
+## 📸!home -
 ![Screenshot (4)](https://user-images.githubusercontent.com/123193336/214096539-7c06c449-fea3-44f1-bb9c-83d9d68b245e.png)
 
 
