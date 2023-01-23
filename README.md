@@ -5,7 +5,7 @@ This is a web based application developed for clothes related fit based website
 ### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
-**Project Link** - 
+**Project Link** - https://lovelytara364.github.io/project-/
 **Project demo video link** -
 
 ## Features and Functionalities 😃
