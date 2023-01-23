@@ -20,19 +20,26 @@ This is a web based application developed for clothes related fit based website
 ## Screenshots
 
  📸!
+![Screenshot (4)](https://user-images.githubusercontent.com/123193336/214096539-7c06c449-fea3-44f1-bb9c-83d9d68b245e.png)
 
 
 
    
+![Screenshot (6)](https://user-images.githubusercontent.com/123193336/214096653-e98c2199-2676-47a6-90ef-b7c22191db1e.png)
 
 ### About Us -
 
+![Screenshot (5)](https://user-images.githubusercontent.com/123193336/214096601-412b02d9-6c32-466e-9441-0ea7d992884e.png)
 
 
+![Screenshot (8)](https://user-images.githubusercontent.com/123193336/214096756-3bc764ac-1aba-404f-a5b2-dc2a5fdd9b64.png)
 
-### Privacy policy -
+### contact -
+![Screenshot (7)](https://user-images.githubusercontent.com/123193336/214096691-a8b2fbc9-93f7-45bf-89e7-ff52f1b854ca.png)
 
+![Screenshot (10)](https://user-images.githubusercontent.com/123193336/214096838-94569fd2-6c21-434e-b7fb-8c33d9ff5b7a.png)
 
+![Screenshot (11)](https://user-images.githubusercontent.com/123193336/214096867-407e4e9c-b1b7-4a92-8adf-ac24ec688b14.png)
 
 ## Tech Stack 💻
 
