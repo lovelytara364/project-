@@ -6,7 +6,7 @@ This is a web based application developed for clothes related fit based website
 
 
 **Project Link** - https://lovelytara364.github.io/project-/
-**Project demo video link** -
+**Project demo video link** -https://youtu.be/xPkq4w1Nbx0
 
 ## Features and Functionalities 😃
 
